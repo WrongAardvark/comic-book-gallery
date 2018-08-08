@@ -103,6 +103,7 @@
     <Content Include="Views\web.config" />
     <Compile Include="Controllers\ComicBooksController.cs" />
     <None Include="packages.config" />
+    <Content Include="Views\ComicBooks\Detail.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
